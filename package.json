@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pingmap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ping color map values and contrast-safe presentation helpers.",
+  "bin": {
+    "pingmap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pingmap.git"
+  },
+  "homepage": "https://theworker02.github.io/pingmap/",
+  "keywords": [
+    "ping",
+    "map",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
